@@ -1,6 +1,6 @@
 require('dotenv').config();
 const jwt = require('jsonwebtoken');
-const SECERET_KEY=process.env.SECERET_KEY
+const SECERET_KEY= "abu1231"
 
 const generateToken=(userId)=>{
 
