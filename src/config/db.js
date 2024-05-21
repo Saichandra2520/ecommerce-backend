@@ -1,6 +1,6 @@
 const mongoose = require("mongoose")
 
-const mongoDbUrl='mongodb+srv://saivallakatla1973:Dj0wXtiwcWtLEf8M@cluster0.9xuv85x.mongodb.net/?retryWrites=true&w=majority'
+const mongoDbUrl='mongodb+srv://saichandra:*Sai12345@cluster0.k4vuyq6.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0'
 const connectDb=()=>{
     
     return mongoose.connect(mongoDbUrl)
